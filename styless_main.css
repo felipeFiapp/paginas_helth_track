@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://www.simi.org.br/files/2017/Junho/Governo%20cria%20aplicativo.jpg");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size: cover;
+  }
+  

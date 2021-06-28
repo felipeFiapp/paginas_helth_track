@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://www.agroplanning.com.br/wp-content/uploads/2020/10/comida_2020_13.jpg");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size: cover;
+  }
+
